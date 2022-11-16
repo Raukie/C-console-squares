@@ -221,5 +221,5 @@ int main() {
 		pencil.DrawFrame();
 	}
 
-	return EXIT_SUCCESS;
+	return 1;
 }
